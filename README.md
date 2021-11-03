@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luk3nelson
+- 👀 I’m interested in level design, web design, web development, motorsports, and architecture
+- 🌱 I’m currently learning Python and Blueprint
+- 💞️ I’m looking to collaborate on any game projects
+- 📫 How to reach me : email -> luke@lukenelson.info or Twitter.com/luk3nelson
