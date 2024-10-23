@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @luk3nelson
 - 👀 I’m a Level Designer
-- 💞️ I’m looking to collaborate on any game projects
-- 📫 How to reach me : email -> luke@lukenelson.info
